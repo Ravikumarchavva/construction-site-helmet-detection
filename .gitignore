@@ -1,0 +1,11 @@
+*.pt
+*.pth
+
+*.jpg
+*.jpeg
+*.png
+*.txt
+*.xml
+
+*.zip
+archive (1)/
